@@ -12,3 +12,9 @@ int main(){
     myFunction();
     return 0;
 }
+
+/*
+void myFunction(){ // declaration
+    // the body of the function (definition)
+}
+*/
